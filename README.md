@@ -25,9 +25,9 @@
 
 ### 🛠️ Projects
 
-- 🛍️ [**ClothEase**](#) — Full-stack e-commerce platform for clothing stores  
-- 🎯 [**CodeEase**](#) — Dev agency project & team collaboration platform  
-- 💬 [**ChatEase**](#) — Real-time chat app using WebSockets  
+- 🛍️ [**ClothEase**](https://github.com/zzayd30/ClothEase-Front-End) — Full-stack e-commerce platform for clothing stores  
+- 🎯 [**CodeEase**](https://github.com/zzayd30/CodeEase-Front-End) — Dev agency project & team collaboration platform  
+- 💬 [**ChatEase**](https://github.com/zzayd30/ChatEase-Front-End) — Real-time chat app using WebSockets  
 
 > _More at [github.com/zzayd30](https://github.com/zzayd30)_
 
