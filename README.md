@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center">⚡ <i>“Transforming ideas into impactful digital experiences.”</i></p>
+<p align="center">⚡ <i>“Transform Your Online Presence with Custom Web Solutions.”</i></p>
